@@ -1,6 +1,8 @@
 # Flatbox
 Flatbox är en granskningslösning för dokument och ritningar. Enkelt, snabbt och kvalitetetssäkrat arbetsflöde oavsett bransch.
 
+https://flatbox.app/
+
 ## Enkla verktyg
 
 Flatbox innehåller lättanvända verktyg för dokumentgranskning. Fokus på det som är viktigt.
